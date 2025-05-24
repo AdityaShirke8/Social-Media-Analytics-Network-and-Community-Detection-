@@ -1,0 +1,7 @@
+dash
+dash-cytoscape
+networkx
+community    # May also be referred to as 'python-louvain'
+matplotlib
+gunicorn
+python-louvain
